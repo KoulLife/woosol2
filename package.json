@@ -8,19 +8,25 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "engines": {
+    "node": "18.x"
+  },
   "dependencies": {
-    "date-fns": "^2.30.0",
-    "formik": "^2.4.2",
+    "date-fns": "^3.6.0",
+    "formik": "^2.4.6",
     "gray-matter": "^4.0.3",
-    "gsap": "^3.11.5",
+    "gsap": "^3.12.5",
     "isotope-layout": "^3.0.6",
-    "next": "13.4.3",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "react-modal-video": "^2.0.1",
-    "remark": "^14.0.3",
-    "remark-html": "^15.0.2",
-    "sass": "^1.49.7",
-    "swiper": "^9.0.0"
+    "next": "14.2.15",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-modal-video": "^2.0.2",
+    "remark": "^15.0.1",
+    "remark-html": "^16.0.1",
+    "sass": "^1.79.4",
+    "swiper": "^11.1.14"
+  },
+  "devDependencies": {
+    "vercel": "^41.7.3"
   }
 }
