@@ -1,0 +1,34 @@
+{
+    "title": "Architecture Awards",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua quis ipsum gravida.",
+    "button": {
+        "link": "/blog",
+        "label": "See All"
+    },
+    "image": {
+        "url": "/img/photo/2.jpg",
+        "alt": "image"
+    },
+    "items": [
+        {
+            "title": "Designs of the Year",
+            "year": "2022",
+            "image": "/img/photo/1.jpg"
+        },
+        {
+            "title": "Firms of the Year",
+            "year": "2019",
+            "image": "/img/photo/2.jpg"
+        },
+        {
+            "title": "Product Winners",
+            "year": "2014",
+            "image": "/img/photo/5.jpg"
+        },
+        {
+            "title": "Photography Winners",
+            "year": "2008",
+            "image": "/img/photo/4.jpg"
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+  "settings": {
+    "siteName": "우솔데이타",
+    "siteDescription": "Architecture React Next.JS Template",
+    "formspreeURL": "https://formspree.io/f/your_api_key",
+    "mailchimp": {
+      "url": "",
+      "key": ""
+    },
+    "perPage": 6
+  },
+  "header": {
+    "logo": {
+      "image": "/img/my-photo/logo.png",
+      "alt": "Logo"
+    },
+    "menu": [
+      {
+        "label": "회사소개",
+        "link": "/services",
+        "children": [
+          {
+            "label": "회사개요",
+            "link": "/"
+          },
+          {
+            "label": "구축사",
+            "link": "/"
+          },
+          {
+            "label": "인즌현황",
+            "link": "/"
+          },
+          {
+            "label": "저작권 등록현황",
+            "link": "/"
+          },
+          {
+            "label": "찾아오시는 길",
+            "link": "/"
+          }
+        ]
+      },
+      {
+        "label": "데이터보안",
+        "link": "/projects",
+        "children": [
+          {
+            "label": "데이터암호화",
+            "link": "/"
+          },
+          {
+            "label": "구간암호화",
+            "link": "/"
+          },
+          {
+            "label": "데이터변환/분리보관",
+            "link": "/"
+          }
+        ]
+      },
+      {
+        "label": "위협탐지/모니터링",
+        "link": "/blog",
+        "children": [
+          {
+            "label": "공격표면관리",
+            "link": "/a"
+          },
+          {
+            "label": "웹쉘/악성코드탐지",
+            "link": "/b"
+          },
+          {
+            "label": "성능모니터링",
+            "link": "/c"
+          }
+        ]
+      },
+      {
+        "label": "문의사항",
+        "link": "/d",
+        "children": 0
+      }
+    ]
+  },
+  "footer": {
+    "logo": {
+      "image": "/img/my-photo/logo.png",
+      "alt": "Logo"
+    },
+    "copy": "Woosol Data. All rights reserved.",
+    "menu": [
+      {
+        "label": "회사소개",
+        "link": "/a"
+      },
+      {
+        "label": "데이터보안",
+        "link": "/b"
+      },
+      {
+        "label": "위험탐지/모니터링",
+        "link": "/c"
+      },
+      {
+        "label": "문의사항",
+        "link": "/d"
+      }
+    ]
+  },
+  "social": [
+
+  ],
+  "projects": {
+    "categories": [
+      {
+        "name": "Architecture",
+        "slug": "architecture"
+      },
+      {
+        "name": "Interior",
+        "slug": "interior"
+      },
+      {
+        "name": "Decor",
+        "slug": "decor"
+      }
+    ]
+  },
+  "team": {
+    "categories": [
+      {
+        "name": "Executive",
+        "slug": "executive"
+      },
+      {
+        "name": "Data centers",
+        "slug": "data-centers"
+      },
+      {
+        "name": "Education",
+        "slug": "education"
+      },
+      {
+        "name": "Workplace",
+        "slug": "workplace"
+      }
+    ]
+  }
+}

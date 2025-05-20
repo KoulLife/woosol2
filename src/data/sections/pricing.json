@@ -1,0 +1,93 @@
+{
+    "title": "Pricing",
+    "subtitle": "Flexible Plans",
+    "items": [
+        {
+            "title": "Basic",
+            "price": {
+                "value": "99",
+                "after": "Month <br>Billed Annually"
+            },
+            "list": [
+                {
+                    "value": "Design Consulting",
+                    "active": 1
+                },
+                {
+                    "value": "Implementation",
+                    "active": 1
+                },
+                {
+                    "value": "Design of Products",
+                    "active": 0
+                },
+                {
+                    "value": "Product Creation",
+                    "active": 0
+                }
+            ],
+            "button": {
+                "link": "/contact",
+                "label": "Select Now"
+            }
+        },
+        {
+            "title": "Advanced",
+            "price": {
+                "value": "199",
+                "after": "Month <br>Billed Annually"
+            },
+            "list": [
+                {
+                    "value": "Design Consulting",
+                    "active": 1
+                },
+                {
+                    "value": "Implementation",
+                    "active": 1
+                },
+                {
+                    "value": "Design of Products",
+                    "active": 1
+                },
+                {
+                    "value": "Product Creation",
+                    "active": 0
+                }
+            ],
+            "button": {
+                "link": "/contact",
+                "label": "Select Now"
+            }
+        },
+        {
+            "title": "Pro",
+            "price": {
+                "value": "599",
+                "after": "Month <br>Billed Annually"
+            },
+            "list": [
+                {
+                    "value": "Design Consulting",
+                    "active": 1
+                },
+                {
+                    "value": "Implementation",
+                    "active": 1
+                },
+                {
+                    "value": "Design of Products",
+                    "active": 1
+                },
+                {
+                    "value": "Product Creation",
+                    "active": 1
+                }
+            ],
+            "button": {
+                "link": "/contact",
+                "label": "Select Now"
+            }
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "title": "Years of Experience",
+    "subtitle": "Our Experts",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua quis ipsum suspendisse ultrices gravida.",
+    "image": {
+        "url": "/img/photo/14.jpg",
+        "alt": "image"
+    },
+    "avatar": {
+        "image": "/img/faces/1.jpg",
+        "name": "Joe French",
+        "subname": "Project Agent"
+    },
+    "items": [
+        "1250 Projects Carried out Only in the EE.UU.",
+        "A Great Work Team Globally",
+        "+ 940 Projects Carried Out in the World",
+        "+ 100 Billion Invested in Projects"
+    ]
+}

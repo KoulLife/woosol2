@@ -1,0 +1,26 @@
+{
+    "bg_image": "/img/photo/6.jpg",
+    "title": "Design with <span class=\"mil-accent\">community</span> in mind",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua quis ipsum suspendisse ultrices gravida.",
+    "button": {
+        "link": "/about",
+        "label": "Learn More"
+    },
+    "items": [
+        {
+            "label": "Locations",
+            "value": "600",
+            "valueAfter": ""
+        },
+        {
+            "label": "Continents",
+            "value": "6",
+            "valueAfter": ""
+        },
+        {
+            "label": "Workers",
+            "value": "22",
+            "valueAfter": "k"
+        }
+    ]
+}

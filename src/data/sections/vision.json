@@ -1,0 +1,25 @@
+{
+    "title": "Our Soul",
+    "subtitle": "Good Vision",
+    "button": {
+        "label": "See All",
+        "link": "/blog"
+    },
+    "items": [
+        {
+            "title": "Professionals",
+            "icon": "/img/icons/11.svg",
+            "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit, sed do eiusmod tempor incididunt."
+        },
+        {
+            "title": "Programs",
+            "icon": "/img/icons/11.svg",
+            "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit, sed do eiusmod tempor incididunt."
+        },
+        {
+            "title": "IT Techology",
+            "icon": "/img/icons/11.svg",
+            "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit, sed do eiusmod tempor incididunt."
+        }
+    ]
+}

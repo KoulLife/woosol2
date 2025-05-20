@@ -1,0 +1,13 @@
+{
+    "title": "Get started with the project today",
+    "subtitle": "Bring your ideas to life",
+    "phone": {
+        "label": "New project",
+        "value": "1 800 847 7978"
+    },
+    "button": {
+        "label": "문의하기",
+        "link": "/"
+    },
+    "bg_image": "/img/photo/11.jpg"
+}

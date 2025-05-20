@@ -1,0 +1,31 @@
+{
+    "title": "Project Fundamentals",
+    "subtitle": "The important thing",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "items": [
+        {
+            "icon": "/img/icons/4.svg",
+            "title": "Creativity",
+            "text": "Consectetur adipiscing elit, sed do eiusmod labore aliqua.",
+            "link": "/services"
+        },
+        {
+            "icon": "/img/icons/9.svg",
+            "title": "Technology",
+            "text": "Consectetur adipiscing elit, sed do eiusmod labore aliqua.",
+            "link": "/services"
+        },
+        {
+            "icon": "/img/icons/12.svg",
+            "title": "Sustainability",
+            "text": "Consectetur adipiscing elit, sed do eiusmod labore aliqua.",
+            "link": "/services"
+        },
+        {
+            "icon": "/img/icons/7.svg",
+            "title": "Innovation",
+            "text": "Consectetur adipiscing elit, sed do eiusmod labore aliqua.",
+            "link": "/services"
+        }
+    ]
+}

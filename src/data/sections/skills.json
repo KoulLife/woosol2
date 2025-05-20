@@ -1,0 +1,23 @@
+{
+    "title": "We make custom made items",
+    "subtitle": "Our Skills",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "items": [
+        {
+            "value": "35",
+            "label": "Design"
+        },
+        {
+            "value": "60",
+            "label": "Interior Scetch"
+        },
+        {
+            "value": "80",
+            "label": "3D Modelling"
+        },
+        {
+            "value": "40",
+            "label": "Planning"
+        }
+    ]
+}

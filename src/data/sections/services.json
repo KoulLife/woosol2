@@ -1,0 +1,48 @@
+{
+    "title": "서비스 소개",
+    "subtitle": "Services",
+    "items": [
+        {
+            "icon": "/img/icons/3.svg",
+            "num": "01.",
+            "title": "데이터암호화",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod labore aliqua.",
+            "link": "/services/service-1"
+        },
+        {
+            "icon": "/img/icons/5.svg",
+            "num": "02.",
+            "title": "구간암호화",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod labore aliqua.",
+            "link": "/services/service-2"
+        },
+        {
+            "icon": "/img/icons/4.svg",
+            "num": "03.",
+            "title": "데이터변환/분리보관",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod labore aliqua.",
+            "link": "/services/service-3"
+        },
+      {
+        "icon": "/img/icons/4.svg",
+        "num": "04.",
+        "title": "공격표면관리",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod labore aliqua.",
+        "link": "/services/service-3"
+      },
+      {
+        "icon": "/img/icons/4.svg",
+        "num": "05.",
+        "title": "웹쉘/악성코드탐지",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod labore aliqua.",
+        "link": "/services/service-3"
+      },
+      {
+        "icon": "/img/icons/4.svg",
+        "num": "06.",
+        "title": "성능모니터링",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod labore aliqua.",
+        "link": "/services/service-3"
+      }
+    ]
+}

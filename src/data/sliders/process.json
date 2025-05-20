@@ -1,0 +1,48 @@
+{
+    "title": "Our process",
+    "subtitle": "How it Works",
+    "slides": [
+        [
+            {
+                "title": "We Hear",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore aliqua."
+            },
+            {
+                "title": "We Give Ideas",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore aliqua."
+            },
+            {
+                "title": "We Plan the Bases",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore aliqua."
+            }
+        ],
+        [
+            {
+                "title": "We Hear",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore aliqua."
+            },
+            {
+                "title": "We Give Ideas",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore aliqua."
+            },
+            {
+                "title": "We Plan the Bases",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore aliqua."
+            }
+        ],
+        [
+            {
+                "title": "We Hear",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore aliqua."
+            },
+            {
+                "title": "We Give Ideas",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore aliqua."
+            },
+            {
+                "title": "We Plan the Bases",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore aliqua."
+            }
+        ]
+    ]
+}

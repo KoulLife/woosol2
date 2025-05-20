@@ -1,0 +1,31 @@
+{
+    "bg_image": "/img/my-photo/main-bg.png",
+    "title": "DB암호화 구축,<br/><span class=\"mil-accent\">DB 솔루션 전문 기업</span>",
+    "subtitle": "Global Partner",
+    "button": {
+        "link": "/projects",
+        "label": "View Projects"
+    },
+    "numbers": [
+        {
+            "value": "34",
+            "afterValue": "+",
+            "label": "구축사례"
+        },
+        {
+            "value": "5",
+            "afterValue": "+",
+            "label": "인증현황"
+        },
+        {
+            "value": "5",
+            "afterValue": "+",
+            "label": "저작권 등록현황\n"
+        },
+        {
+            "value": "4",
+            "afterValue": "+",
+            "label": "제품군"
+        }
+    ]
+}

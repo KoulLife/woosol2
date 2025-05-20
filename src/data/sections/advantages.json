@@ -1,0 +1,23 @@
+{
+    "title": "회사개요",
+    "subtitle": "Company Overview",
+    "description": "",
+    "items": [
+        {
+            "title": "회사명",
+            "text": "(주)우솔데이타"
+        },
+        {
+            "title": "대표",
+            "text": "이준빈"
+        },
+        {
+            "title": "본사",
+            "text": "서울시 마포구 삼개로 16"
+        },
+        {
+            "title": "사업영역",
+            "text": "DB암호화 솔루션 및 각종 보안사업"
+        }
+    ]
+}
