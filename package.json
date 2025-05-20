@@ -24,7 +24,7 @@
     "remark": "^15.0.1",
     "remark-html": "^16.0.1",
     "sass": "^1.79.4",
-    "swiper": "10.3.1"
+    "swiper": "9.4.1"
   },
   "devDependencies": {
     "vercel": "^41.7.3"
